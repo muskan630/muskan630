@@ -20,14 +20,13 @@
 - **Others:** Thymeleaf, JDBC
 
 ---
-
 ## 📂 Featured Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📚 [Bookstore Management](https://github.com/muskan630/bookstore-management) | MVC web app to manage books with CRUD | Java, Spring Boot, MySQL |
-| 🧮 [Java Basic Programs](https://github.com/muskan630/java-basic-programs) | Collection of beginner-friendly Java programs | Java |
-| 🔢 [Array Basics Programs](https://github.com/muskan630/array-basics-programs) | Programs to practice Array concepts in Java | Java |
-
+| 📚 [Bookstore Management](https://github.com/muskan630/book-store-management) | MVC web app to manage books with CRUD operations | Java, Spring Boot, MySQL |
+| 🧮 [Java Basic Programs](https://github.com/muskan630/Java_Basic_Programs) | Collection of beginner-friendly Java programs for practicing basic concepts | Java |
+| 🔢 [Array Basics Programs](https://github.com/muskan630/Array-Basic-Program) | Programs to practice Array concepts in Java | Java |
 ---
 
 ##  GitHub Stats & Activity
