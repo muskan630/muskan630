@@ -1,33 +1,33 @@
- Hey there, I'm Muskan!
+## Hey there, I'm Muskan!
 
 💻 **Java Backend Developer | Spring Boot | SQL | REST API Enthusiast**  
 🎯 Passionate about building clean, scalable, and efficient backend applications.
 
 ---
 
-## 🚀 About Me
-- 🎓 **BCA Graduate** & Full Stack Java Certified
-- 🔧 Skilled in **Java (Core + Advanced)**, **Spring Boot**, **MySQL**
-- 📚 Currently learning **Microservices & Cloud Basics**
-- 🌟 Goal: To become a **Java Backend Engineer** in a reputed MNC
+#  About Me
+-  **BCA Graduate** & Full Stack Java Certified
+-  Skilled in **Java (Core + Advanced)**, **Spring Boot**, **MySQL**
+-  Currently learning **Microservices & Cloud Basics**
+-  Goal: To become a **Java Backend Engineer** in a reputed MNC
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** Java, SQL, HTML, CSS, C
 - **Frameworks:** Spring Boot, Spring Data JPA, REST API
 - **Tools:** Git & GitHub, IntelliJ IDEA, Eclipse, MySQL Workbench
 - **Others:** Thymeleaf, JDBC
 
 ---
-## 📂 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📚 [Bookstore Management](https://github.com/muskan630/book-store-management) | MVC web app to manage books with CRUD operations | Java, Spring Boot, MySQL |
-| 📚 [Online Notes Keeper](https://github.com/muskan630/Online_Notes_Keeper) | MVC web app to manage notes with Add/Edit/Delete functionality | Java, Spring Boot, Thymeleaf, MySQL |
-| 🧮 [Java Basic Programs](https://github.com/muskan630/Java_Basic_Programs) | Collection of beginner-friendly Java programs for practicing basic concepts | Java |
-| 🔢 [Array Basics Programs](https://github.com/muskan630/Array-Basic-Program) | Programs to practice Array concepts in Java | Java |
+|  [Bookstore Management](https://github.com/muskan630/book-store-management) | MVC web app to manage books with CRUD operations | Java, Spring Boot, MySQL |
+|  [Online Notes Keeper](https://github.com/muskan630/Online_Notes_Keeper) | MVC web app to manage notes with Add/Edit/Delete functionality | Java, Spring Boot, Thymeleaf, MySQL |
+|  [Java Basic Programs](https://github.com/muskan630/Java_Basic_Programs) | Collection of beginner-friendly Java programs for practicing basic concepts | Java |
+|  [Array Basics Programs](https://github.com/muskan630/Array-Basic-Program) | Programs to practice Array concepts in Java | Java |
 ---
 
 ##  GitHub Stats & Activity
